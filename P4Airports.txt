@@ -1,0 +1,9 @@
+ 0  LAX    Los Angeles
+ 1  SFO    San Francisco
+ 2  DFW    Denver
+ 3  ORD    Chicago
+ 4  BOS    Boston
+ 5  JFK    New York
+ 6  MIA    Miami
+ 7  MSY    New Orlean
+ 8  SEA    Seatle
